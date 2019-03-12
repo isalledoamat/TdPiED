@@ -5,5 +5,5 @@ Técniques d'edició i edició digitals
 ## Pràctica_2_bodegó
 [bodegó](p2.zip)
 ## Pràctica_3_totem
-[totem]()
+[totem](p3.zip)
 
