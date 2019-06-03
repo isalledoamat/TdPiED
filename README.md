@@ -9,4 +9,4 @@ Técniques d'edició i edició digitals
 # Pràctica_4_isidro ferrer
 [isidro ferrer](p4.zip)
 # Pràctica_final_susana blasco
-[pràctica final](cartell_final.zip)
+[pràctica final](cartell_final.mp4)
