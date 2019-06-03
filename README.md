@@ -8,3 +8,5 @@ Técniques d'edició i edició digitals
 [totem](p3.zip)
 # Pràctica_4_isidro ferrer
 [isidro ferrer](p4.zip)
+# Pràctica_final_susana blasco
+[pràctica final](cartell_final.zip)
